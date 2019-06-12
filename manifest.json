@@ -1,13 +1,14 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "La Seine, Paris",
+    "short_name": "La Seine",
+    "description": "French monument",
     "scope": ".",
     "start_url": "/pwa-starter",
     "display": "standalone",
     "orientation": "portrait", 
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
+
     "icons": [
         {
             "src": "img/favicons/android-chrome-192x192.png",
